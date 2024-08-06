@@ -1,3 +1,11 @@
+---
+title: Latex grammars
+author: oldkingOK
+date: 2024-08-06
+category: Jekyll
+layout: post
+---
+
 $$
 \begin{array}{|c|c|c|}
 	\hline 2&9&4\\
